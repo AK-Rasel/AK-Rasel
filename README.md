@@ -1,9 +1,17 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--
-**AK-Rasel/AK-Rasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### Baqnner -->
 
-Here are some ideas to get you started:
+
+
+[![An old rock in the desert](https://raw.githubusercontent.com/AK-Rasel/AK-Rasel/main/image/photo-1616004655123-818cbd4b3143.avif "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/ak.rasel99/)
+
+<!-- **AK-Rasel/AK-Rasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AK-Rasel&theme=whatsapp-dark2&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D&exclude_days=Fri&background=0D1117&border=FF3718C9&stroke=FF3718C9&ring=FF3718C9&fire=FF3718C9&currStreakNum=EBEBEB&sideNums=FF3718C9&currStreakLabel=FFFFFF&sideLabels=FFFFFFC9&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://github.com/AK-Rasel)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
