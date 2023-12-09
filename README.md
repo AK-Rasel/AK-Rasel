@@ -51,7 +51,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ##  I have worked on some projects including some short features and demos
-## Project Name -  Tastebazaar
+## Project Name -  InfinityEvents
 - Live Link:- https://infinity-events-4206d.web.app/
 - Client Side:- https://github.com/AK-Rasel/InfinityEvents.git
 
