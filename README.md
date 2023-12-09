@@ -14,7 +14,8 @@
 - 💬 raselak101010@gmail.com ...
 
 # 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ak.rasel99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akRasel) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ak.rasel99) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akRasel)  -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AK-Rasel&theme=whatsapp-dark2&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D&exclude_days=Fri&background=0D1117&border=FF3718C9&stroke=FF3718C9&ring=FF3718C9&fire=FF3718C9&currStreakNum=EBEBEB&sideNums=FF3718C9&currStreakLabel=FFFFFF&sideLabels=FFFFFFC9&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://github.com/AK-Rasel) -->
