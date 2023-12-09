@@ -55,6 +55,14 @@
 - Live Link:- https://infinity-events-4206d.web.app/
 - Client Side:- https://github.com/AK-Rasel/InfinityEvents.git
 
+### Website Features
+- Home /AboutUs /Servises /Banner /Footer
+- Private/protected route
+- All device responsive
+- Animated all Website
+- Login and register validated
+- There are 6 category cards which show in details
+
 ## Project Name -  PackFlow
 - Live Link:-  https://packflow-6f508.web.app
 - Client Side:- https://github.com/AK-Rasel/PackFlow-client-site.git
