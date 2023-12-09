@@ -65,10 +65,29 @@
 - Live Link:-  https://packflow-6f508.web.app
 - Client Side:- https://github.com/AK-Rasel/PackFlow-client-site.git
 - Server Side:-https://github.com/AK-Rasel/PackFlow-server-side.git
+
+### Website Features
+- Home /Admin Dashboard/ DeliveryMen Dashboard /user Dashboard
+- Private/protected route
+- All device responsive
+- Animated all Website
+- Login and register validated
+- user Dashboard view / my Profile / My Parcels/ Book a parcel (All data is coming from the back-end )
+- DeliveryMan view / product Delivery list/My Reviews (All data is coming from the back-end )
+- Admin Dashboard view /all parcels/all user/all DeliveryMan /statistics(All data is coming from the back-end )
 ## Project Name -  Brandshop
 - Live Link:- https://automotive-d88f5.web.app/
 - Client Side:- https://github.com/AK-Rasel/Brandshop-client-side.git
 - Server Side:- https://github.com/AK-Rasel/Brandshop-server-side.git
+### Website Features
+- navbar , footer,brand card, my cart, Why Choose Us section,Add new product,update (All data is coming from the back-end )
+- private router ,banner slider used, different different product Route
+-Add to cut will be added to the cut page.
+- Add new product category and update category personal
+- Login and register validated
+- Register password less than 6 characters, not an uppercase letter, a special character not display message. 
+
+
 
 
 
