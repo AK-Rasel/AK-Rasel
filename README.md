@@ -4,7 +4,7 @@
 
 
 
-[![An old rock in the desert](https://raw.githubusercontent.com/AK-Rasel/AK-Rasel/main/image/photo-1616004655123-818cbd4b3143.avif "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/ak.rasel99/)
+[![An old rock in the desert](https://raw.githubusercontent.com/AK-Rasel/AK-Rasel/main/image/Untitled-1.png "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/ak.rasel99/)
 
 <!-- **AK-Rasel/AK-Rasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
