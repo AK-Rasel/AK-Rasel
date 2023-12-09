@@ -54,7 +54,7 @@
 - Live Link:- https://infinity-events-4206d.web.app/
 - Client Side:- https://github.com/AK-Rasel/InfinityEvents.git
 
-### Website Features
+### InfinityEvents Features
 - Home /AboutUs /Servises /Banner /Footer
 - Private/protected route
 - All device responsive
@@ -67,7 +67,7 @@
 - Client Side:- https://github.com/AK-Rasel/PackFlow-client-site.git
 - Server Side:-https://github.com/AK-Rasel/PackFlow-server-side.git
 
-### Website Features
+### PackFlow Features
 - Home /Admin Dashboard/ DeliveryMen Dashboard /user Dashboard
 - Private/protected route
 - All device responsive
@@ -80,7 +80,7 @@
 - Live Link:- https://automotive-d88f5.web.app/
 - Client Side:- https://github.com/AK-Rasel/Brandshop-client-side.git
 - Server Side:- https://github.com/AK-Rasel/Brandshop-server-side.git
-### Website Features
+### Brandshop Features
 - navbar , footer,brand card, my cart, Why Choose Us section,Add new product,update (All data is coming from the back-end )
 - private router ,banner slider used, different different product Route
 -Add to cut will be added to the cut page.
