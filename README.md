@@ -22,9 +22,7 @@
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://www.githubtrends.io/demo) -->
 
-# 🌐 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,firebase,mongodb,vite)](https://skillicons.dev)
 
 
 
